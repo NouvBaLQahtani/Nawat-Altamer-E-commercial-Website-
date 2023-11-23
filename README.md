@@ -1,4 +1,4 @@
-<img width="1440" alt="Screenshot 2023-11-24 at 2 05 39 AM" src="https://github.com/NouvBaLQahtani/Nawat-Altamer-E-commercial-Website-/assets/106460665/e514d7ad-bf00-432c-977f-02f1bbf3c06a"># E-commercial-Website
+# E-commercial-Website
 This project is a front-end implementation of an e-commerce website for "نواة التمر" (Date Palm Kernel) products. 
 
 a website that showcases and sells products made from date palm kernels. 
