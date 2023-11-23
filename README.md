@@ -3,9 +3,13 @@ This project is a front-end implementation of an e-commerce website for "نوا�
 a website that showcases and sells products made from date palm kernels. 
 The website provides information about the products, allows users to explore the available options, and facilitates contact with the company.
 Note: the company identity and its products are not REAL (Imaginary identity). 
-The visual identity for the website was provided by the talented graphic designer Shouq Batey. You can contact her through her social media accounts:
-Instagram: [@shabutti_des]
-Twitter : [@shabutti_des]
+The visual identity for the website was provided by the talented graphic designer Shouq Batey.
+Please note that the design elements and graphics are subject to copyright and should not be used or reproduced without proper permission.
+You can contact her through her social media accounts:
+
+X (Twitter): @shaButti_des
+
+Instagram: @shaButti_des
 
 ## Screenshots of the website : 
 
