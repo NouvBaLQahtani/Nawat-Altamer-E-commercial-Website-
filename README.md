@@ -64,4 +64,4 @@ If you would like to contribute directly, you can fork the repository, make your
 
 
 ## Contact
-If you have any questions, feedback, or inquiries regarding the e-commerce website, please feel free to reach out to me through my Email: NouvButti@gmail.com . 
+If you have any questions, feedback, or inquiries regarding the e-commerce website, please feel free to reach out to me through my Email: NouvAlqahtani@gmail.com . 
